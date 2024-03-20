@@ -1,3 +1,5 @@
 This is the Victor's "biography"
 Now I'm trying to learn git, because 
+I'm from Mexico, I was born in guadalajara Jal.
+and I'm 32 years old.
 it's very difficult.
